@@ -186,11 +186,10 @@ Six interactive games that reinforce learning through play. Each game targets di
 ---
 
 <div align="center">
-  <p>Built by <a href="https://github.com/codewithsalty">Salman Khan</a></p>
+  <p>Built by <a href="https://github.com/fewgets">Usama Shahid</a></p>
   <p>
     <a href="https://taleem-ai.vercel.app">Live Demo</a> •
-    <a href="https://github.com/codewithsalty">GitHub</a> •
-    <a href="https://www.linkedin.com/in/s4lmankhan">LinkedIn</a> •
-    <a href="https://x.com/codewithsalty">X</a>
+    <a href="https://github.com/fewgets">GitHub</a> •
+    <a href="https://www.linkedin.com/in/-usamashahid/">LinkedIn</a>
   </p>
 </div>

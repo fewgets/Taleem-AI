@@ -13,14 +13,14 @@ import Footer from '@/components/shared/footer';
 
 const teamMembers = [
     {
-        name: "Salman Khan",
-        role: "Full Stack AI Engineer | Certified Ethical Hacker",
-        avatar: "https://i.postimg.cc/TYWcbYbc/salman.jpg",
-        description: "Specializing in intelligent systems development using LLMs, RAG pipelines, MCPs, and autonomous AI agents. Deep expertise in AI-driven application architecture and cybersecurity.",
+        name: "Usama Shahid",
+        role: "AI Engineer | Deep Learning & NLP Specialist",
+        avatar: "https://i.postimg.cc/9fSd06MX/Whats-App-Image-2025-07-18-at-18-48-12-b406fa92.jpg",
+        description: "Developing production-grade AI systems in deep learning, natural language processing, and computer vision. Transforming complex problems into scalable intelligent solutions.",
         socials: {
-            github: "https://github.com/codewithsalty",
-            linkedin: "https://www.linkedin.com/in/s4lmankhan/",
-            twitter: "https://x.com/codewithsalty",
+            github: "https://github.com/fewgets",
+            linkedin: "https://www.linkedin.com/in/-usamashahid/",
+            twitter: "#",
         }
     },
     {
@@ -31,17 +31,6 @@ const teamMembers = [
         socials: {
             github: "https://github.com/HinaTanveer813",
             linkedin: "https://www.linkedin.com/in/hinatanveer3810/",
-            twitter: "#",
-        }
-    },
-    {
-        name: "Usama Shahid",
-        role: "AI Engineer | Deep Learning & NLP Specialist",
-        avatar: "https://i.postimg.cc/9fSd06MX/Whats-App-Image-2025-07-18-at-18-48-12-b406fa92.jpg",
-        description: "Developing production-grade AI systems in deep learning, natural language processing, and computer vision. Transforming complex problems into scalable intelligent solutions.",
-        socials: {
-            github: "https://github.com/fewgets",
-            linkedin: "https://www.linkedin.com/in/-usamashahid/",
             twitter: "#",
         }
     }

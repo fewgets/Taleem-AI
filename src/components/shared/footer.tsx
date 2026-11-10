@@ -1,4 +1,4 @@
-import { Github, Twitter, Linkedin, Mail } from 'lucide-react';
+import { Github, Linkedin, Mail } from 'lucide-react';
 import Logo from './logo';
 import Link from 'next/link';
 
@@ -28,16 +28,13 @@ export default function Footer() {
               </Link>
             </div>
             <div className="flex space-x-4">
-              <Link href="https://x.com/codewithsalty" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="X">
-                <Twitter size={20} />
-              </Link>
-              <Link href="https://github.com/codewithsalty" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="GitHub">
+              <Link href="https://github.com/fewgets" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="GitHub">
                 <Github size={20} />
               </Link>
-              <Link href="https://www.linkedin.com/in/s4lmankhan/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="LinkedIn">
+              <Link href="https://www.linkedin.com/in/-usamashahid/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="LinkedIn">
                 <Linkedin size={20} />
               </Link>
-              <Link href="mailto:codewithsalty@gmail.com" className="text-muted-foreground hover:text-foreground transition-colors" title="Email">
+              <Link href="mailto:shaikhusama541@gmail.com" className="text-muted-foreground hover:text-foreground transition-colors" title="Email">
                 <Mail size={20} />
               </Link>
             </div>

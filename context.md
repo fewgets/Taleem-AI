@@ -1,8 +1,8 @@
 # Taleem AI — Context Log
 
 ## Project Info
-- **Repo**: `https://github.com/codewithsalty/Taleem-AI.git`
-- **Author**: `codewithsalty` (`codewithsalty@gmail.com`)
+- **Repo**: `https://github.com/fewgets/StudyPartner.git`
+- **Author**: `fewgets` (`shaikhusama541@gmail.com`)
 - **Package**: `taleem-ai` (renamed from `nextn`)
 - **Stack**: Next.js 15.3.8, TypeScript, Tailwind CSS, Firebase, Genkit, Groq
 - **Branch**: `main` (merged from `master` with `--allow-unrelated-histories`)
