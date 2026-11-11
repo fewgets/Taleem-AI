@@ -246,6 +246,12 @@ src/
 
 ---
 
+## 📜 License
+
+Shared for learning and portfolio purposes. Feel free to explore the code; please credit the project if you reuse it.
+
+---
+
 ## 🤝 Let's Work Together
 
 <div align="center">
